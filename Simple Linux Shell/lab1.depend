@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1678578886 source:/home/user/OS_Labs/lab1/main.c
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdio.h>
+
+1678578933 source:/home/user/OS_Labs/Simple Linux Shell/main.c
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdio.h>
+
